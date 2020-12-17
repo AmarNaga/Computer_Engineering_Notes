@@ -1,0 +1,20 @@
+For 1st assessment
+
+Define computer network. 4 applications of computer network. (5)
+What is network topology ? Types of network topology. (5)
+What is transmission media ? What are different types of media ? (5)
+What is multiplexing ? Describe time division and frequency division multiplexing. (5)
+What is packet switching ? (5)
+
+Benifits of computer networks. (5)
+Explain each layer of OSI model. (5)
+Describe and differentiate fdma and tdma. (5)
+
+Explain your personal view to justify any two network topologies which you think is the most
+important to build a stable network. (7)
+Types of error detection and correction techniques. How is hamming code
+different from CRC ? (4+2)
+A bit word 1011 is to be transmitted. Construct the even parity seve bit hamming code. (5)
+
+short notes : (5 each)
+Osi reference architecture.

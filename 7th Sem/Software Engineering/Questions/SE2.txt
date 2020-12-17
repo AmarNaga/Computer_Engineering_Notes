@@ -1,0 +1,55 @@
+For 2nd assessment
+
+Chapter-4
+Uses of DFD's for s/w development process. (3)
+Discuss system architecture modelling. Explain the role of human factors in computer based system engineering. (5+5)
+Use case and class diagram for Hospital management system. (10)
+Brief note on dataflow design principles. Describe three process steps for transforming a dataflow diagram to a structure chart. (4+6)
+With a suitable example explain about the application of use cases in deriving the scenarios. Draw a use case diagram for university information system. (10)
+
+Chapter-5
+Describe s/w design process and difference between function oriented and object oriented design. (10)
+How objects can be identified ? Under which circumstances might it be appropriate to develop a design where objects execute concurrently ? (5)
+Why do we require system structuring in s/w design ? Discuss control models required for s/w design. (5+5)
+What are the different types of domain specific architectures ? (10)
+List the desirable characteristics of good s/w design documents. (4)
+Define cohesion and coupling. (4)
+What is the use of architectural design ? Mention some of the criteria being used to definr effective modular design. (4+6)
+Describe about top-down, bottom-up strategy. What do you mean by the term cohesion and coupling in the context of s/w design ? (3+7)
+Explain the human factor that affect the system design. (5)
+Some system specification and architecture design is done before the procurement decisions are made. Justify. (5)
+Types of domain specific architecture with example. (5)
+
+
+
+
+Chapter-6
+Describe s/w testing process and differentiate black and white box testing. (10)
+Under which conditions debugging is necessary ? Describe some common debugging approaches. (5)
+Discuss black box testing. Why do we need to calculate coclomatic complexity ? (6+4)
+Discuss process visibility. Why do you require testing and documentation ? (5+5)
+Role of s/w testing in s/w engineering process. (8)
+Objectives of s/w testing. (3)
+What are the attributes of good testing. Explain defect testing with proper example. (3+7)
+ 
+
+Chapter-7
+Describe s/w quality attributes and s/w safety. (5)
+Why is it difficult to accurately quantify the reliability of a s/w product ? Difference between : s/w realiability and availability, Estimation and prediction model, s/w failure and fault. (10)
+What is s/w management ? (2)
+Explain SQA process. What are the steps of bottom up integration ? (7+3)
+Explain system reliability and availability requirements. Does the redundant system always improve the reliability of the system ? (6+4)
+Short notes: Software quality attributes and s/w safety, redundancy and fault tolerance.
+Difference between validation and verification. (5)
+Define reliability. Applications of s/w realibility model. (1+4)
+Describe major sqa activity and indicate their importance. (5)
+
+Chapter-8
+
+
+Rest
+Define system and define system engineering hiererchy. (5)
+Describe component based s/w develpoment. (5)
+What is s/w maintenance ? Describe the different types of maintenance. (2+8)
+What is s/w crisis ? Discuss the main reasons for s/w crisis. (3+4)
+What is bug ? Explain debugging process. (5)

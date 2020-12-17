@@ -1,0 +1,21 @@
+ip route destination with subnet and path
+
+For telnet
+set up router password
+router(config)#line vty
+router(config-line)#password <password>
+router(config-line)#login
+
+Password for enable mode
+router(config)#enable secret ghimire
+
+For ssh
+router(config)#line vty
+router(config-line)#login local
+router(config-line)#transport input ssh
+router(config-line)#exit
+router(config)#username 'username' password 'password'
+router(config)#ip domain-name <domain-name>
+router(config)#crypto key generate rsa
+router(config)#enable secret 'password' //for privilege mode
+

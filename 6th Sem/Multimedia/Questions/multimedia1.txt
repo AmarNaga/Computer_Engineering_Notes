@@ -1,0 +1,36 @@
+For 1st assessment
+
+Properties of multimedia system. Explain data stream chatacteristics for continuous media. (4+6)
+How is sound and audio generated ? Explain various components of speech analysis. (5+5)
+Basic technology of optical storage media. Explain principle and area of CD- magneto optical. (4+6)
+
+Define multimedia system. Chatacteristics of multimedia system. (2+3)
+Modes of data transmission in brief. (5)
+Explain MIDI hardware and list MIDI software with brief description. (5+2)
+What are the techniques for speech transmission. (3)
+Explain the framework of interactive graphics system. (5)
+Explain types of iage format used in image representation. (5)
+What is extended architecture ? Discuss principle of CD write once. (2+3)
+
+Explain multimedia. Dxplain different classifications of medium. (1+3)
+Explain data stream charecteristicsin detail. (6)
+Explain mechanism of speech generation. (5)
+Explain MIDI with MIDI messages. (5)
+Fundamental steps of digital image processing. (5)
+Image formats and graphic formats in detail. (5)
+
+Explain multimedia with its application in modern education. (4)
+Data stream characteristics. (6)
+Define MIDI with synthesizer device. Explain speech generation system. (5+5)
+Explain image with digital representation. Describe various image recognition steps with diagram. (4+6)
+Principle of CD-wo. (4)
+Explain video conferencing technique. (4)
+
+
+Short notes : (5 each)
+video on demand and video conferencing
+Digital libraries
+video disk fundamentals
+Information system
+ 
+

@@ -1,0 +1,8 @@
+Numerical methods
+
+Program (10 marks each)
+Solve linear equation using gauss elimination.
+Lagrange interpolation polynomial.
+Root of linear equation using gauss elimination nethod.
+Algorithm and program for bisection method. 
+Newton Raphson with algorithm. 

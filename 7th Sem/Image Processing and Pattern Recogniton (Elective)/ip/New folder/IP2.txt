@@ -1,0 +1,71 @@
+﻿For 2nd assessment
+
+Chapter-2
+What is image restoration ? Various types of image enhancement related to point and spatial operation. (3+5)
+Describe about image sharpening filters. (5)
+Purposes of image enhancement. Image enhancement filters in brief. (10)
+What are the different noise present in an image ?
+Explain image magnification techniques. (10)
+Explain first and second order differential filters. (8)
+Short note : Image zooming. (5)
+             Types of noise. (5)
+             Median filter. (5)
+Different types of noise in image. Explain filtering in frequency domain. (10)
+How can image enhancement in frequency domain be performed? Explain any two low pass frequency domain filters. (10)
+How can you detect edges with gradient filters? Give different first order derivative based (gradient) filters. (5)
+What are the usages of derivative based filters. Derive mask for Laplacian second order derivative based filter. (6)
+Explain different types of frequency domain low pass filters with expressions and figures. (6)
+
+Chapter-3
+Explain in detail the discrete sine Hadamard transformaiton. (10)
+Show that FFT is better than Fourier transformation. Explain Hadamard transform. (10)
+Write expression for forward and inverse Discrete Fourier Transform (DFT) for 2D signal. What are the properties of DFT. (5)
+Short note: HAAR transformation. (5)
+Define Hadamard Transform and derive the 8x8 transform matrix for Hadamard Transform. (5)
+
+
+Chapter-4
+Difference between dialation and erasion. Explain boundary filling algorithm with example. (10)
+What is skeletonization ? Explain dialation and erosion in detail. (3+7)
+Differentiate opening and closing. Explain boundary extraction algorithm with example. (10)
+Explain the following morphological algorithms: (i) Boundary extraction   (ii) region filling (iii) Pruning (10)
+Explain morphological operation with respect to dilation, erosion, opening and closing on binary image. (6)
+Short Note : Skeletonization and Prunning (5)
+
+Chapter-5
+Types of redundancies. Huffman and LZW coding techniques. (10)
+Difference between interframe and intreaframe coding. Explain transform coding based on DCT. (10)
+Explain different types of transform coding in detail. (10)
+Explain different types of entropy encoding. (10)
+Issues of image compression. Explain any two entropy encoding techniques. (10)
+Why do we need compression? Encode and decode the phrase ”SHAISHAMSHAI” using LZW coding. (10)
+What do you mean by redundancy? Explain various types of redundancy present in an image. (10)
+What do you mean by LZW coding? Explain the process of encoding and decoding of string “this is the thing” with LZW
+Explain the lossless predictive coding with the help of encoder and decoder block diagram. (6)
+From the following probability distribution construct the Huffman Code for each gray level, finally determine the coding efficiency. (6)	
+rk	0	1	2	3	4	5
+P(rk)	0.5	0.1	0.25	0.15	0.3	0.15
+
+
+Chapter-6
+What is image analysis ? Explain segmentation based on thresholding. (10)
+Differentiate crack code and chain code. Describe edge detection based on gradient operator. (10)
+What is region growing based segmentation ? Discuss crack code and chain code in brief. (2+8)
+Describe image segmentation and template based edge detection. (5+5)
+Define image segmentation? Explain the basics concept of region splitting and merging technique of segmentation. (10)
+Short Note : Crack and Chain Code. (5)
+How can you detect edges with gradient filters? Give different first order derivative based (gradient) filters. (5)
+How can you detect a point? Explain. (6)
+How can you detect edges with gradient filters? Give different first order derivative based (gradient) filters. (6)
+What do you mean by segmentation, give the algorithm for determining value of T (Threshold values). (6)
+
+Chapter-7
+Short note: ANN based classifier. (5)
+            Match based classifier. (5)
+Define pattern and pattern recognition system; explain the issues with feature selection. (5)
+What are different steps of pattern recognition? Discuss on ANN based classifiers. (3+5)
+
+Chapter-8
+Short note: Self organizing map. (5)
+            Hopfield Network. (5)
+            Percetron neurons. (5)

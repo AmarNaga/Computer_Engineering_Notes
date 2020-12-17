@@ -1,0 +1,23 @@
+For 1st assessment
+
+Define and compare correlation and regresion. Write basic properties of regression. (4)
+State and prove Bayes theorem of probability. (4)
+Define and compare probability mass function and probability density function. (4)
+Define binomial distribution and prove that the mean of binomial distribution is np. (4)
+Define standatrd normal distribution. Write the properties of normal probability curve. (4)
+What is regression cofficient ? Write the properties of regression cofficient. (4)
+Discuss the properties of normal distribution. (4)
+Show that the mean and variance of poissions distribution are equal. (5)
+Differences between discrete probability distribution and continuous probability
+distribution with examples. (5)
+What do you mean by mathematical expectation of a random variable and
+mention its physical meaning. (4)
+
+
+Numericals
+1. Regression
+2. Finding the probability
+3. Probability density function
+4. Karl pearson's cofficient of correlation
+5. Finding mean and variance of random variable
+6. Mormal distribution

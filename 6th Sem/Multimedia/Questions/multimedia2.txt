@@ -1,0 +1,50 @@
+For 2nd assessment
+
+Video and animation
+Characteristics of television system. Techniques of animation control mechanism. (4+6)
+Define computer based animation. Explain methods of controlling animation. (1+4)
+Difference between video and animation. Explain different animation languages. (2+3)
+Important measures that define visual representation. (5)
+
+Data compression
+Advantages and disadvantages of compression technique.
+Compare with application area of lossy, lossless and hybrid coding. (4+6)
+Explain major steps of data compression in detail. (5)
+Explain compression technique for still images. (5)
+Importance of compression technique. What are different compression techniques used ?
+Explain major steps of data compression. (2+2+6)
+
+Documentation Hypertext and MHEG
+Compare hypertext, hypermedia and multimedia. Explain document architecture SGML. (4+6)
+Explain open document architecture. (4)
+
+Advanced technologies in multimedia
+Explain importance and issue of synchronization. Define MM synchronization with 4 layer reference model. (4+6)
+Discuss relation between Oos and resources. Explain resource management architecture in multimedia communication architecture. (4+6)
+Describe reference model for multimedia synchronization. (5)
+Explain Qos and resource management with figure. (6)
+Explain earliest deadline first algorithm. Compare and contrast it with rate monotonic algorithm. (4+6)
+What are the abstraction levels used in programming ? Explain
+advantages of object oriented approaches in brief. (5+5)
+Qos is a keyfactor for quality multimedia communication system. Explain. (5)
+What are the concerns for multimedia operating system. Explain. (6)
+What are the two real time scheduling algorithm ? Discuss. (6)
+Multimedia application should have higher abstraction from multimedia 
+hardware detail. Justify. (4)
+What is group communication architecture. What are its components ? (5) 
+Define Qos. Explain important issues needed to be considered wrt Qos. (1+4)
+What is abstraction for programming ? Explain different abstraction level. (1+5)
+Define synchronization with inter and intra object synchronization.
+Explain MM synchronization with 4 layer reference model. (2+3+5)
+
+Short notes : (5 each)
+Real time schedule
+Toolkit and libraries
+Hypertext hypermedia and multimedia
+Transport sub-system
+Resource management
+Multimedia operating system
+MPEG and DVI
+
+
+

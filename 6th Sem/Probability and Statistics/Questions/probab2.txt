@@ -1,0 +1,48 @@
+What is sample error ? 
+Write the standard error of sample mean and sample proportion. (4)
+
+Steps involved in the test of significance of difference of proportion. (4)
+
+Define student t distribution.
+What are the assumptions made while testing the single mean for small sample ? (4)
+
+How the goodness of fit is tested ? Explain with suitable steps. (4)
+
+Define absolute and relative measure of dispersion and cofficient of variation.(4)
+
+What is equally likely and exhaustive cases with example. (4)
+
+Define point estimation and interval estimation.
+Write properties of good estimator and explain any one of them. (4)
+
+Procedure for testing large sample test for the difference of two mean. (4)
+
+Steps of test of significance of independence of attribures. (4)
+
+What is standard deviation. Discuss central tendency and dispersion. (4)
+
+Define probability. State and prove theorem of probability. (5)
+
+Describe estimation and its types. (6)
+
+Describe error in hypothesis testing.
+
+On what basis we give decision of test of hypothesis ?
+Describe procedure of pair t- test. (6)
+
+Steps of cho square test of independence of attributes. (6)
+
+Describe functions and limitations of statistics. (4)
+
+Dependent and independent events.
+Sample space and exhaustive cases. (4)
+
+Define population parameter and sample statistics.
+Write the standard error of mean and proportion. (4)
+
+Define t- distribution and its application. (4)
+
+Chi square test and its application. (4)
+
+
+

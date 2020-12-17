@@ -1,0 +1,33 @@
+For 1st assessment
+
+Explain induction principle with example. (4)
+Define DFA. Designing DFA for given question. (6)
+Define PDA. Construct PDA for given question. (5)
+Regular languages are closed under union, concatenation and kleene star operation. Discuss. (4)
+State pumping lemma for regular language. Using pumping lemma to prove given language is nor regular. (5)
+Define CFG with example.
+significance of CFG in TOC. (5)
+Steps involved in converting NFA sto DFA with example. (7)
+Describe CNF. CFG numerical. (4+6)
+
+Define finite automata. Discuss its significance. (4)
+Numerical to comvert nfa to dfa. (6)
+State Arden's theorem. Use it to find equivalent RE of given DFA. (3+7)
+Prove dthat for each NFA, there is an equivalent DFA. (4)
+Show that regular languages are closed under union and intersection. (6)
+When will the derivation tree be ambigious ? Explain its solution.  (4)
+Converting given grammar into cnf. (6)
+Proving given language is not context free. (6)
+
+Explain move of PDA. (5)
+How do you remove useless and unit productions from a CFG solution ? (5)
+Convert following CFG into CNF. (5)
+s-> aXX
+X-> as/bs/a
+Design PDA for the language containing equal no of a's followed by equal no of b's. (5)
+
+Importance of finite automata in computer science. (4)
+Numerical for finding leftmost deviation (LFD) and rightmost deviation (RMD) in CFG. (5)
+Reduce given grammar to CNF. (5)
+Finding equivalent grammar with given procedures. (5)
+

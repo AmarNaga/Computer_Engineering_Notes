@@ -1,0 +1,34 @@
+Dynamic programming
+1. Difference between divide conquer method and dynamec programming method. (4)
+   Explain a multisyage graph based on DP with example. (6)
+2. What is all pair shortest path problem ? (4)
+3. What is dunamic programming ? How does it differ from greedy strategy ? (2+2)
+4. Discuss about travelling salesman problem and its solution in light of
+   dynamic programming. (5)
+Numericals 
+Travelling salesman psroblem (TSP)
+0/1 knapsack problem using DP
+Longest common subsequence (LCS)
+Multistage graph forward and backward approach
+
+
+Backtracking
+1. Write down solution state space tree for 4 queen problem with explicit and implicit constraints
+   to sole using backtracking method. (4+6)
+2. Discuss about graph colouring problem. (4)
+3. What is 8 queen problem ? Write algorithm design strategy would you adopt to solve this problem.
+   Develop an algorithm for it. (3+1+6)
+
+
+Branch and Bound
+1. Describe briefly the branch and bound strategy of algorithm.
+   Mention few types of problems that can be solved by this strategy. (6+4)
+Numericals
+0/1 knapsack using branch and bound
+TSP problem using branch and bound
+
+
+Np hard and NP-complete problem
+1. Define np hard and np complete. Show that CLIQUE is NP complete. (5+5)
+2. Explain about class P, class NP and NP complete with suitable example. (10)
+ 

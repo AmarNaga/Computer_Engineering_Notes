@@ -1,0 +1,47 @@
+For 2nd assessment
+
+Explain the use of look-up table to increase the intensity level values with suitable diagram. (4)
+What is 3d transformation ? Explain 3d rotation with example and necessary derivations. (2+8)
+What is clipping ? Explain cohen sutherland line clipping algorithm. (2+8)
+Explain ambient light, diffuse and specular reflection. (6)
+Discuss about open GL. (4)
+Why hidden line and hidden surface removal techniques are needed ? Explain any one. (4+6)
+Discuss the term translation,rotation and scaling for a 2D transformation 
+with proper matrix representation. (4)
+
+Determine window to view port transformation for the following dimensions. (6)
+			window	viewpoint
+Lower lefrt corner	(5,10)	  (8,12)
+Upper left corner 	(15,20)	  (12,18)
+
+Discuss Sutherland-HOdgeman algorithm for polygon clipping with example. (8)
+
+Use cohen sutherland algorithm to clip the line for the following dimensions.
+    Line end points (15,45) and (25,15)
+    Window: Lower left (10,20) and Upper right (30,40)
+
+Explain gouraud shading model with proper derivations and example. (10)
+What is object space method and image sace method for visible surface detection ? (4)
+What do you mean by illumination models ? Define the terms Ambient light,
+diffused reflection and specular reflection with equations for calculating light intensities.(2+8)
+Explain 2D window to viewport coordinate transformation. (4)
+Explain various types of file format in computer grpahics. (6)
+Explain specular reflection method in detail. (4)
+What do you mean by illumination models ? Why Phong method is better than Gouraud method ? (2+2)
+Explain polygon tables in detail. (10)
+Why do we need clipping ? (3)
+What is scaling ? Explain 2D fixed point scaling. (2+8)
+What is projection ? Explain paralle and perspective projection. (2+8)
+What are different surface removal techniques ? Explain z-buffer method. (2+8)
+
+Short notes : (5 each)
+Perspective projection
+Phong shading models
+JPEG nad PNG
+Open GL
+Bezier curve and spline
+Cubic spline method of generating non-planar surfaces
+3D transformation
+Graphical file format
+
+

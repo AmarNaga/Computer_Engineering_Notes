@@ -1,0 +1,23 @@
+For 1st assessment
+
+Chapter-1
+Describe the characteristics of software with examples. Explain Generic view of Software. (10)
+
+Chapter-2
+Explain Spiral Model, RAD and Prototyping. (10)
+Difference between spiral and prototype model. (4)
+
+Chapter-3
+Explain the importance of 4p's in the Software Project Management. List out the Project Estimation Techniques. (10)
+Explain Software Configuration Management Process. (10)
+Explain Risk Management Process. Explain functional and non functional requirements. Describe the COCOMO model. (10)
+Explain the importance of 4p's in the Software Project Management. List out the Project Estimation Techniques. (8)
+What is Risk in software development? How to identify risk? Describe the COCOMO model. (8)
+Key components of software project management. (4)
+Explain types of software risk in short and also discuss the risk mitigation, monitoring and management. (4)
+
+Chapter-4
+What is Software Requirement Specification document? Discuss the importance of software requirement specification with suitable example. (12)
+Functional and non- functional requirement. (4)
+What is SRS (Software requirement specificaiton) document ?
+SRS and its characteristics. (6)

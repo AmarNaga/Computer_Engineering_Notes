@@ -1,0 +1,25 @@
+1st assessment
+
+What is computer graphics ? Explain sthe application of it in engineering field. (2+4)
+Explain Light pen and touch screen. (4)
+Explain vector and reaser scasn architectures. (6)
+Explain Bresenham algorithms for line drawing for m>1 and m<1. (5)
+Use DDA to digitize a line from pixel co-ordinate (10,10) to (16,18). Plot the line.(5)
+Draw a circle with radius 10 using mid point circle drawing algorithm.(6)
+Explain shadow mask method for producing color displays with a CRT.(4)
+
+Define computer graphics, pixel and resoulution.(3)
+How can CG be used in simulation and education.(3)
+Explain types of stouch panel in brief. (4)
+Advantages of bresnham over DDA algorithm.(3)
+Explain raster scan architecture. (5)
+How is the limitation of random scan architecture overcomed by raster architecture ?(2)
+Derive mid point circle generating algorithm with illustration. (10)
+
+Define resolution. Discuss importance of computer graphics.(1+4)
+Briefly explain light pen and touch screen.(5)
+Define frame buffer. Why is it required ? (2+2)
+Discuss any color manipulation technique. (6)
+Difference between vector and raster display architecture.(4)
+Explain advanced raster graphic architecture.(6)
+Explain Bresenham midpoint ellipse drawing algorithm.(10)

@@ -1,0 +1,38 @@
+OS
+First assessment
+
+Explain multiprogramming system and time sharing system with their advantages and disadvantages. (6)
+Discuss strice alteration method in providing mutual exclusion with its drawback. (4)
+What is thread ? DIfference between user level and kernel level thread. (2+3)
+Define race condition and critical section. How does semaphore provide software solution to producer consumer problem ? (4+6)
+Explain best fit and worst fit methods with a a suitable example. (4)
+What are the condition for deadlock to occur ?
+
+What is OS ? Discuss OS as a resouce manager. (2+8)
+What is race condition ? Why mutual excludion is required ? 
+How mutual exclusion can be obatained ? Describe any one of them. (2+2+2+4)
+Define process and its different states. What are the various operations on a semaphore ? 
+Solve the producer consumer problem using semaphore.(2+4+4)
+Define deadlock. What are the necessary conditions for a deadlock ?
+Explain the deadlock avoidance algorithm. (2+4+4)
+Shrot note on DMA. (5)
+
+What is OS ? Discuss briefly about the evolution of OS. (2+8)
+Define process and its different states. What are the various operations on a semaphore ? 
+Solve the producer consumer problem using semaphore. (2+4+4)
+What are the necessary conditions for a deadlock ? 
+Briefly explain banker's algorithm. (4+6)
+Short note on classical IPC problem dining philosopher. (5)
+
+Explain function of OS. Discuss OS as a resource manager. (5+5)
+Define busy waiting in IPC. How can we solve the problem of mutual exclusion with busy waiting ?
+Explain a perterson solution. (2+3+5)
+Compare preemptive and non-preemptive scheduling. (3)
+Define semaphore with example. What is read/wirte problem ? 
+Explain with example. (4+6)
+Define deadlock with its principles. Explain banker's algorithm for multiple resources with example.(4+6)
+Discuss memory management in multiprogramminbg.
+Explain paging. (5+5)
+How is process different from thread ? Why do we need to create threads ? (2+3)
+Discuss monitors in IPC. (5)
+  

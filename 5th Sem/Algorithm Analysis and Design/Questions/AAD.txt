@@ -1,0 +1,34 @@
+1st assessment
+Compare optimization problems and decision problems. (4)
+Elaborate on asymptotic notation with examples. (6)
+Use step count method to analyze the time complexity when two m*n matrices are added. (4)
+Derive big 0 notation for given relation. t(n)=2t(n/2)+3n2, t(1)=11 and n=2pow(k) (6)
+How divide and conquer method is used to solve a problem ? (4)
+Explain convex hull problem using divide and conquer method. (6)
+Write general method of greedy technique. (4)
+Finding optimal schedules for given tasks with given deadlines and penalties in terms of weight.(6)
+
+What is recurrence relation ? (2)
+Estimate the run time of algorithm using master method. (8)
+Define greedy paradigm. Explain concept of job sequencing with illustration. (2+3)
+Finding optimal job swquence. (8)
+What is algorithm analysis ? (2)]
+Explain best, worst and average case of algorithm analysis. (8)
+What is graph ? Explain shortest path algorithm and its application with dijkstra algorithm. (2+8)
+What is divide and conquer technique ? (2) 
+Using this technique, write an algorithm of quick sort and the analyze it. (8)
+Use kruskal's algorithm for computing minimum spanning tree and analyze its complexity.
+Also trace the algorithm for the graph. (10)
+Explain Graham's scan algorithm to sompute convex HULL. (10)
+
+What is asymptotic notation ? Define and explain big O, theta and omega notation.(1+5)
+Find the best case, worst case and average case running time for binary search algorithm.(4)
+Define greedy paradigm. Find optimal job list in sequence with deadlines. (2+8)
+Short notes on convex hull, time and space complexity, theta, big O, omega notation.
+Discuss algorithm analysis. Explain time and space complexity. (3+7)
+What is graph ? Explain shortest path algorithm and its application with dijkstra's algorithm. (2+8)
+Prims algorithm for computing minimum spanning tree. (10)
+Explain how divide and conquer strategy is used for designing efficient algorithms. (4)
+using divide and conquer design an algorithm for binary search and calculate time complexity for worst case. (6)
+Define algorithm. Express the asymptotic notation using big O of f(n)=10n2+4n+4. (2+8)
+Finding minimum spanning tree using kruskal's alforithm. (6)
